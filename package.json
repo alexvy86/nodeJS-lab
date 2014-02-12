@@ -1,0 +1,23 @@
+{
+  "name": "nodeJS-lab",
+  "version": "0.0.0",
+  "description": "first version of the package file",
+  "main": "web.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexvy86/nodeJS-lab.git"
+  },
+  "author": "alexvy86",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexvy86/nodeJS-lab/issues"
+  },
+  "homepage": "https://github.com/alexvy86/nodeJS-lab",
+  "dependencies": {
+    "logfmt": "~0.20.0",
+    "express": "~3.4.8"
+  }
+}
